@@ -9,7 +9,8 @@ The game is a fully functioning two player chess game. It allows players to perf
 ## Pictures
 
 <img align="center" width="300" height="300" hspace="70" src="https://user-images.githubusercontent.com/33875832/44113530-68a2d316-9fd6-11e8-8f05-faabb5d20ce0.png"><img align="center" width="300" height="300" hspace="70" src="https://user-images.githubusercontent.com/33875832/44113734-0e1aba84-9fd7-11e8-9f2d-a10313f56378.png">
-<img align="center" width="300" height="300" hspace="70" src=""><img align="center" width="300" height="300" hspace="70" src="">
+
+<img align="center" width="300" height="300" hspace="70" src="https://user-images.githubusercontent.com/33875832/44114607-ad01c758-9fd9-11e8-85e8-da4b0f77d223.png"><img align="center" width="300" height="300" hspace="70" src="">
 
 ## Files
 
