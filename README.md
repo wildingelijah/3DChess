@@ -1,17 +1,11 @@
-## Welcome to Chess Page
+## Introduction
 
-My name is Elijah Wilding. I am currently attending McMaster University pursuing a degree in Software Engineering. The areas of my field I am most passionate about are app design and game design. Below is some of my work.
+This project was designed by myself and three other students (Zack Palantzas, Corey Szeto and Aleem Haq) using primarily C++. We also used Blender to create the models for the actual chess pieces. 
 
-### Team Projects
+## What
 
-[3D Chess](http://wildingelijah.github.io/3DChess)
+The game is a fully functioning two player chess game. It allows players to perform for all correct movements. It has multiple features that enhance user experience nad playability. And we even added a little flare to make the game look fun and enjoyable! 
 
-### Solo Projects
+## Files
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wildingelijah/wildingelijah.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In order to access the files for this project please click "View"
