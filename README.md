@@ -8,7 +8,7 @@ The game is a fully functioning two player chess game. It allows players to perf
 
 ## Pictures
 
-
+![screen shot 2018-08-14 at 3 20 04 pm](https://user-images.githubusercontent.com/33875832/44113530-68a2d316-9fd6-11e8-8f05-faabb5d20ce0.png)
 
 ## Files
 
