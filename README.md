@@ -4,7 +4,7 @@ This project was designed by myself and three other students (Zack Palantzas, Co
 
 ## About The Project
 
-The game is a fully functioning two player chess game. It allows players to perform all correct movements usually found in chess rules. It has multiple features that enhance user experience nad playability. And we even added a little flare (colourful, floating teapots that rotate around the board) to make the game look fun and enjoyable! 
+The game is a fully functioning two player chess game. It allows players to perform all correct movements usually found in chess rules. It has multiple features that enhance user experience and playability. And we even added a little flare (colourful, floating teapots that rotate around the board) to make the game look fun and enjoyable! 
 
 ## Pictures
 
