@@ -22,6 +22,8 @@ In order to run the game, download all the files and then navigate to folder in 
 
 It should be noted that all controls and information needed are printed out to the console.
 
+If you would like to know more about how the app functions or my part in the project please feel free to ask me questions at: **elijahwilding@gmail.com**.
+
 ## Back
 
 [Back to main page of portfolio](https://wildingelijah.github.io/)
